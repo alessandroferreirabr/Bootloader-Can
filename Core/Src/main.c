@@ -1,4 +1,5 @@
 /* USER CODE BEGIN Header */
+//Alessandro ferreira
 /**
   ******************************************************************************
   * @file           : main.c
@@ -22,7 +23,7 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+#include <stdio.h>
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
